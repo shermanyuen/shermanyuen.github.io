@@ -735,6 +735,14 @@ section {
   font-size: 14px;
 }
 
+.services .pub-subheading {
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #050d18;
+}
+
 .services .pub-title {
   font-size: 20px;
   font-weight: 600;
