@@ -259,4 +259,12 @@
    */
   new PureCounter();
 
+  /**
+   * Email address display
+   */
+  document.getElementById("email-link").addEventListener("click", function (e) {
+    e.preventDefault();
+    this.textContent = "\x79\x73\x6d\x40\x75\x2e\x6e\x75\x73\x2e\x65\x64\x75";
+  });
+
 })()
